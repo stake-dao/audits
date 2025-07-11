@@ -36,6 +36,7 @@ This repository serves as a centralized, transparent archive of all security aud
 | ------------------------------------------- | ------------- | ----------------------------------------------------------------------------------------------------------- | ------------------ |
 | [ChainSecurity](https://chainsecurity.com/) | October 2022  | [`2022-10-01_chainsecurity_liquid_lockers.pdf`](liquid-lockers/2022-10-01_chainsecurity_liquid_lockers.pdf) | Liquid Lockers     |
 | [ChainSecurity](https://chainsecurity.com/) | February 2022 | [`2022-02-01_chainsecurity_vesdt_fxs_locker.pdf`](vesdt/2022-02-01_chainsecurity_vesdt_fxs_locker.pdf)      | veSDT & FXS Locker |
+| [Omniscia](https://omniscia.io/)            | Match 2025    | [`2025-03-11_omniscia_zerolend_liquid_locker.pdf`](liquid-lockers/2025-03-11_omniscia_zerolend_liquid_locker.pdf) | Liquid Lockers |
 
 ## 📁 Repository Structure
 
