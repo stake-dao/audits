@@ -37,13 +37,14 @@ This repository serves as a centralized, transparent archive of all security aud
 | ------------------------------------------- | ------------ | -------------------------------------------------------------------------------------------------------- |
 | [ChainSecurity](https://chainsecurity.com/) | January 2023 | [`2023-01-01_chainsecurity_votemarket_v1.pdf`](votemarket/v1/2023-01-01_chainsecurity_votemarket_v1.pdf) |
 
-### veSDT & Liquid Lockers
+### Miscellaneous
 
-| Auditor                                     | Date          | Report                                                                                                            | Product            |
-| ------------------------------------------- | ------------- | ----------------------------------------------------------------------------------------------------------------- | ------------------ |
-| [ChainSecurity](https://chainsecurity.com/) | October 2022  | [`2022-10-01_chainsecurity_liquid_lockers.pdf`](liquid-lockers/2022-10-01_chainsecurity_liquid_lockers.pdf)       | Liquid Lockers     |
-| [ChainSecurity](https://chainsecurity.com/) | February 2022 | [`2022-02-01_chainsecurity_vesdt_fxs_locker.pdf`](vesdt/2022-02-01_chainsecurity_vesdt_fxs_locker.pdf)            | veSDT & FXS Locker |
-| [Omniscia](https://omniscia.io/)            | March 2025    | [`2025-03-11_omniscia_zerolend_liquid_locker.pdf`](liquid-lockers/2025-03-11_omniscia_zerolend_liquid_locker.pdf) | Liquid Lockers     |
+| Auditor                                           | Date          | Report                                                                                                      | Product            |
+| ------------------------------------------------- | ------------- | ----------------------------------------------------------------------------------------------------------- | ------------------ |
+| [ChainSecurity](https://chainsecurity.com/)       | October 2022  | [`2022-10-01_chainsecurity_liquid_lockers.pdf`](misc/2022-10-01_chainsecurity_liquid_lockers.pdf)           | Liquid Lockers     |
+| [ChainSecurity](https://chainsecurity.com/)       | February 2022 | [`2022-02-01_chainsecurity_vesdt_fxs_locker.pdf`](misc/2022-02-01_chainsecurity_vesdt_fxs_locker.pdf)       | veSDT & FXS Locker |
+| [Omniscia](https://omniscia.io/)                  | March 2025    | [`2025-03-11_omniscia_zerolend_liquid_locker.pdf`](misc/2025-03-11_omniscia_zerolend_liquid_locker.pdf)     | Liquid Lockers     |
+| [Trust Security](https://www.trust-security.xyz/) | August 2025   | [`2025-08-27_trust_security_misc_curve_oracles.pdf`](misc/2025-08-27_trust_security_misc_curve_oracles.pdf) | Curve Oracles      |
 
 ## 📁 Repository Structure
 
@@ -55,8 +56,7 @@ audits/
 │   ├── v1/
 │   └── v2/
 │       └── laposte/      # LaPoste module audit
-├── vesdt/                # veSDT token audits
-├── liquid-lockers/       # Liquid locker audits
+├── misc/                 # veSDT token, liquid lockers, oracles...
 └── README.md
 ```
 
