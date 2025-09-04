@@ -8,11 +8,12 @@ This repository serves as a centralized, transparent archive of all security aud
 
 ### Staking v2 (Only Boost v2)
 
-| Auditor                                           | Date        | Report                                                                                                          |
-| ------------------------------------------------- | ----------- | --------------------------------------------------------------------------------------------------------------- |
-| [Omniscia](https://omniscia.io/)                  | May 2025    | [`2025-05-01_omniscia_staking_v2.pdf`](staking-v2/2025-05-01_omniscia_staking_v2.pdf)                           |
-| [Trust Security](https://www.trust-security.xyz/) | April 2025  | [`2025-04-01_trust_security_staking_v2.pdf`](staking-v2/2025-04-01_trust_security_staking_v2.pdf)               |
-| [Pashov Audit Group](https://www.pashov.net/)     | August 2025 | [`2025-08-08_pashov_staking_v2_morpho_support.pdf`](staking-v2/2025-08-08_pashov_staking_v2_morpho_support.pdf) |
+| Auditor                                           | Date           | Report                                                                                                          |
+| ------------------------------------------------- | -------------- | --------------------------------------------------------------------------------------------------------------- |
+| [Omniscia](https://omniscia.io/)                  | May 2025       | [`2025-05-01_omniscia_staking_v2.pdf`](staking-v2/2025-05-01_omniscia_staking_v2.pdf)                           |
+| [Trust Security](https://www.trust-security.xyz/) | April 2025     | [`2025-04-01_trust_security_staking_v2.pdf`](staking-v2/2025-04-01_trust_security_staking_v2.pdf)               |
+| [Pashov Audit Group](https://www.pashov.net/)     | August 2025    | [`2025-08-08_pashov_staking_v2_morpho_support.pdf`](staking-v2/2025-08-08_pashov_staking_v2_morpho_support.pdf) |
+| [Omniscia](https://omniscia.io/)                  | September 2025 | [`2025-09-03_omniscia_staking_v2.pdf`](staking-v2/2025-09-03_omniscia_staking_v2.pdf)                           |
 
 ### OnlyBoost
 
