@@ -38,6 +38,12 @@ This repository serves as a centralized, transparent archive of all security aud
 | ------------------------------------------- | ------------ | -------------------------------------------------------------------------------------------------------- |
 | [ChainSecurity](https://chainsecurity.com/) | January 2023 | [`2023-01-01_chainsecurity_votemarket_v1.pdf`](votemarket/v1/2023-01-01_chainsecurity_votemarket_v1.pdf) |
 
+### vlSDT
+
+| Auditor                                           | Date       | Report                                                                                   |
+| ------------------------------------------------- | ---------- | ---------------------------------------------------------------------------------------- |
+| [Trust Security](https://www.trust-security.xyz/) | March 2026 | [`2026_03_26_trust_security_vlsdt.pdf`](vlsdt/2026_03_26_trust_security_vlsdt.pdf)       |
+
 ### Miscellaneous
 
 | Auditor                                           | Date          | Report                                                                                                      | Product            |
@@ -57,6 +63,7 @@ audits/
 │   ├── v1/
 │   └── v2/
 │       └── laposte/      # LaPoste module audit
+├── vlsdt/                # vlSDT token audits
 ├── misc/                 # veSDT token, liquid lockers, oracles...
 └── README.md
 ```
